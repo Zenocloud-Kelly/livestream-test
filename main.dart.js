@@ -32386,7 +32386,7 @@ m(){this.d.m()
 this.aR()},
 oN(){var s=0,r=A.T(t.H),q=this,p
 var $async$oN=A.U(function(a,b){if(a===1)return A.Q(b,r)
-while(true)switch(s){case 0:p=new A.a0V(A.aaV(),A.ahA("wss://kelly-wss.zenocloud.tech",A.a5(["transports",A.a(["websocket"],t.s)],t.N,t.z)))
+while(true)switch(s){case 0:p=new A.a0V(A.aaV(),A.ahA("wss://kelly-wss.zenocloud.tech",A.a5(["transports",A.a(["websocket"],t.s),"path","/"],t.N,t.z)))
 q.f=p
 p=p.dK()
 s=2
@@ -32396,7 +32396,7 @@ return A.R(null,r)}})
 return A.S($async$oN,r)},
 oO(){var s=0,r=A.T(t.H),q=this,p
 var $async$oO=A.U(function(a,b){if(a===1)return A.Q(b,r)
-while(true)switch(s){case 0:p=new A.a2q(A.aaV(),A.ahA("wss://kelly-wss.zenocloud.tech",A.a5(["transports",A.a(["websocket"],t.s)],t.N,t.z)))
+while(true)switch(s){case 0:p=new A.a2q(A.aaV(),A.ahA("wss://kelly-wss.zenocloud.tech",A.a5(["transports",A.a(["websocket"],t.s),"path","/"],t.N,t.z)))
 q.r=p
 p=p.dK()
 s=2
