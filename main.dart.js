@@ -31207,7 +31207,7 @@ return A.Y(m.oX(0),$async$dE)
 case 5:l=b
 s=6
 return A.Y(q.c.l3(0,l),$async$dE)
-case 6:k=A.ak(["sdp",l.a,"target","viewer"],o,t.v)
+case 6:k=A.ak(["type","signal","sdp",l.a,"target","viewer"],o,t.v)
 if(q.e){j=q.d
 j===$&&A.b()
 j.send(B.W.eV(k))}else q.f.push(k)
